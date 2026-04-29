@@ -38,7 +38,7 @@ projeto/
 ## Filosofia do projeto
 
 > "Se funciona, não mexe.
-> Se quebrou, chama de feature."
+> Se quebrou, chama de feature." ";p"
 
 ## Como rodar
 
