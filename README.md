@@ -1,4 +1,4 @@
-# 🍟 Projeto Ultra Secreto
+#  Projeto Ultra Secreto
 
 Bem-vindo ao repositório mais importante desde a invenção do café.
 
